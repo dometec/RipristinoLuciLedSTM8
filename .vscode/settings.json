@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "mpr121.h": "c",
+    "constants.h": "c",
+    "arduino.h": "c"
+  }
+}
